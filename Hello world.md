@@ -9,3 +9,7 @@
 ```sh
 git checkout branch_name
 ```
+## Как добавить картинки
+
+Это картинка
+![capture](archangel.jpg)
