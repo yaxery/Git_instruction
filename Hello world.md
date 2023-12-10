@@ -1,18 +1,13 @@
-# First file by control version :)
-Hello world
+# User's Guide for GIT
 
-## Text selection
+Для того, чтобы создать репозиторий используй команду:
+> git init - создает локальный репозиторий
 
-*curvise.*
+## Команды, отвечающие за коммиты:
 
-**Semi Bold.**
+* git add - добавляет файл или файлы к следующему коммиту.
 
-## Lists
+* git commit -m - создаёт коммит.
 
-* Element 1
-* Element 2
-* Element 3
-
-1. First number list
-2. Second number list
-3. Third number list
+* git log - вывод на экран историю всех коммитов с их хэш-кодами
+* git log --oneline - используют, если в истории очень много коммитов, покажет все ваши коммиты только с первой частью хэша и сообщением фиксации.
