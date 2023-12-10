@@ -16,3 +16,9 @@ Hello world
 1. First number list
 2. Second number list
 3. Third number list
+
+
+## Как добавить картинки
+
+Это картинка
+![capture](archangel.jpg)
